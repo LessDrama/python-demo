@@ -1,0 +1,15 @@
+*.pyc
+*.pyo
+__pycache__/
+db.sqlite3
+*.sqlite3
+media/
+static/
+.env
+*.log
+*.pot
+*.swp
+.idea/
+.vscode/
+*.db
+*.bak
